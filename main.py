@@ -56,5 +56,3 @@ price after discount: {item.price_after_discount()}
                     messagebox.showinfo("invoice",a)
                     break
 
-if __name__ =='__main__':
-    s=ShowRoomApp()
