@@ -25,12 +25,12 @@ class ShowRoomApp:
        label.pack()
 
        self.items=[
-            Item("TV", "32 Inch", 2300, 10),
-            Item("TV", "43 Inch", 33000, 15),
-            Item("TV", "55 Inch", 4300, 20),         
-            Item("Refrigerator", "8 Foot", 5300, 10),
-            Item("Refrigerator", "16 Foot", 9300, 15),
-            Item("Refrigerator", "21 Foot", 20300, 10),
+            Item("TV", "32 Inch", 23000, 10),
+            Item("TV", "43 Inch", 32000, 15),
+            Item("TV", "55 Inch", 43000, 20),         
+            Item("Refrigerator", "8 Foot", 53000, 10),
+            Item("Refrigerator", "16 Foot", 40300, 15),
+            Item("Refrigerator", "21 Foot", 600300, 10),
             Item("Air Condition", "1.5 HP", 14300, 15),
             Item("Air Condition", "2 HP", 17300, 10),
             Item("Air Condition", "3 HP", 23000, 17)
